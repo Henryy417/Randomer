@@ -1,0 +1,5 @@
+C:\Users\hkct_\Desktop\Randomer-release_v1.0\Randomer.exe
+C:\Users\hkct_\Desktop\Randomer-release_v1.0\Randomer.dll
+C:\Users\hkct_\Desktop\Randomer-release_v1.0\Randomer.deps.json
+C:\Users\hkct_\Desktop\Randomer-release_v1.0\Randomer.runtimeconfig.json
+C:\Users\hkct_\Desktop\Randomer-release_v1.0\Randomer.pdb

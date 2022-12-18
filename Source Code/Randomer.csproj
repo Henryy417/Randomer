@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>RandomerKey.pfx</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <ApplicationIcon>Randomer.ico</ApplicationIcon>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Copyright>Ying Wa Open Source Community &amp; Henry Chan</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

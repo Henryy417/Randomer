@@ -1,0 +1,17 @@
+C:\Users\hkct_\Desktop\Randomer\Randomer\bin\Release\netcoreapp3.1\Randomer.exe
+C:\Users\hkct_\Desktop\Randomer\Randomer\bin\Release\netcoreapp3.1\Randomer.deps.json
+C:\Users\hkct_\Desktop\Randomer\Randomer\bin\Release\netcoreapp3.1\Randomer.runtimeconfig.json
+C:\Users\hkct_\Desktop\Randomer\Randomer\bin\Release\netcoreapp3.1\Randomer.runtimeconfig.dev.json
+C:\Users\hkct_\Desktop\Randomer\Randomer\bin\Release\netcoreapp3.1\Randomer.dll
+C:\Users\hkct_\Desktop\Randomer\Randomer\bin\Release\netcoreapp3.1\Randomer.pdb
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.csprojAssemblyReference.cache
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.MainForm.resources
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.Form2.resources
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.Form3.resources
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.csproj.GenerateResource.cache
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.AssemblyInfoInputs.cache
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.AssemblyInfo.cs
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.csproj.CoreCompileInputs.cache
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.dll
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.pdb
+C:\Users\hkct_\Desktop\Randomer\Randomer\obj\Release\netcoreapp3.1\Randomer.genruntimeconfig.cache
